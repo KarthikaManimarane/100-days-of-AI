@@ -1,7 +1,7 @@
 # Day 10 - LangChain Tools
 
 ## What I learned
-
+ 
 - How to turn a Python function into a LangChain tool using `@tool`.
 - How tool descriptions and input schemas help the LLM understand a tool.
 - How `bind_tools()` makes tools available to Gemini.
