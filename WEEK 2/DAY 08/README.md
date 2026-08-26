@@ -37,7 +37,7 @@ The prompt and LLM are connected using:
 
 `chain = prompt | llm`
 
-### Invoke
+### Invoke 
 
 The chain is executed using:
 
