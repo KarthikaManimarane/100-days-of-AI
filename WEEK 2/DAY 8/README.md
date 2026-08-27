@@ -1,5 +1,5 @@
 # Day 08 - LangChain Basic Chain
-
+ 
 ## What I learned
 
 - What LangChain is and how it helps connect components in an LLM application.
