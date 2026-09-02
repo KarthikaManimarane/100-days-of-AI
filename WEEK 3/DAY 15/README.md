@@ -7,7 +7,7 @@ I learned how text embeddings convert sentences into numerical vectors that repr
 I generated embeddings for 5 sentences and compared their semantic similarity using cosine similarity.
 
 ## What I Built
-
+ 
 A simple embedding comparison project that:
 
 1. Creates 5 sentences.
